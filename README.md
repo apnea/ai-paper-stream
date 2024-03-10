@@ -15,3 +15,5 @@ a stream of interesting papers read or to be read
 6. **[Ternary optical computer principle](https://www.researchgate.net/publication/220362922_Ternary_optical_computer_principle):** 3 states of light (horizontal & vertical polarization and off) are used in this proposal for a ternary computer (with all the advantages that ternary logic provides over binary https://en.wikipedia.org/wiki/Balanced_ternary). Read in conjuction with 1.
 
 7. **[Hegel 2.0 The imaginary history of ternary computing](https://www.cabinetmagazine.org/issues/65/weatherby.php):** Amusing article in *Cabinet*
+
+8. **[The Sky Above The Clouds](https://arxiv.org/pdf/2205.07147.pdf):** beyond cloud computing with intercloud brokers - an imagination of the evolution of cloud computing
