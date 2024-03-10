@@ -6,4 +6,4 @@ a stream of interesting papers read or to be read
    
 2. **[Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/pdf/2311.11045.pdf):** still fun to plug the questions into newer models. E.g. Mistral large, which just cruises through them.
 
-3. **(http://www.eecs.harvard.edu/~htk/publication/2019-mapl-tillet-kung-cox.pdf)[Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations]:** THE original Triton paper. So modest. But all your base is belong to us. One script to rule them all, and in the tensor to bind them.
+3. **[Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations](http://www.eecs.harvard.edu/~htk/publication/2019-mapl-tillet-kung-cox.pdf):** THE original Triton paper. So modest. But all your base is belong to us. One script to rule them all, and in the tensor to bind them.
