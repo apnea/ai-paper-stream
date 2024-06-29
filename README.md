@@ -16,4 +16,6 @@ a stream of interesting papers read or to be read
 
 7. **[Hegel 2.0 The imaginary history of ternary computing](https://www.cabinetmagazine.org/issues/65/weatherby.php):** Amusing article in *Cabinet*
 
-8. **[The Sky Above The Clouds](https://arxiv.org/pdf/2205.07147.pdf):** beyond cloud computing with intercloud brokers - an imagination of the evolution of cloud computing
+8. **[The Sky Above The Clouds],https://arxiv.org/pdf/2205.07147.pdf):** beyond cloud computing with intercloud brokers - an imagination of the evolution of cloud computing
+
+9. **[How to use Transformer Networks to build a Forecasting model](https://towardsdatascience.com/how-to-use-transformer-networks-to-build-a-forecasting-model-297f9270e630**) basic intro with code in PyTorch
