@@ -16,6 +16,16 @@ a stream of interesting papers read or to be read
 
 7. **[Hegel 2.0 The imaginary history of ternary computing](https://www.cabinetmagazine.org/issues/65/weatherby.php):** Amusing article in *Cabinet*
 
-8. **[The Sky Above The Clouds],https://arxiv.org/pdf/2205.07147.pdf):** beyond cloud computing with intercloud brokers - an imagination of the evolution of cloud computing
+8. **[The Sky Above The Clouds](https://arxiv.org/pdf/2205.07147.pdf):** beyond cloud computing with intercloud brokers - an imagination of the evolution of cloud computing
 
-9. **[How to use Transformer Networks to build a Forecasting model](https://towardsdatascience.com/how-to-use-transformer-networks-to-build-a-forecasting-model-297f9270e630**) basic intro with code in PyTorch
+9. **[How to use Transformer Networks to build a Forecasting model](https://towardsdatascience.com/how-to-use-transformer-networks-to-build-a-forecasting-model-297f9270e630)**: basic intro with code in PyTorch: https://github.com/CVxTz/time_series_forecasting
+
+10. **[TRANSFORMERS IN TIME-SERIES ANALYSIS: A TUTORIAL](https://arxiv.org/pdf/2205.01138)** Several enhancements to the initial Transformer architecture, also best practices and techniques to overcome the challenge of effectively training Transformers for time-series analysis.
+
+11. **[Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case](https://arxiv.org/pdf/2001.08317)**
+
+12. **[Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363)**: recurrent layers for local processing and interpretable self-attention layers for long-term dependencies. TFT utilizes specialized components to select relevant features and a series of gating layers to suppress unnecessary components (google-research code)
+
+13. **[Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting](https://arxiv.org/pdf/1907.00235)**: LogSparse Transformer with only O(L(log L)2) memory cost
+
+
